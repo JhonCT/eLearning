@@ -1,0 +1,48 @@
+GOOGLE 
+FirebaseUser(
+  {
+    uid: 'oKQLKUPLaGZdbH2WlPCUcLC5YRi2', 
+    photoUrl: 'https://lh3.googleusercontent.com/a-/AAuE7mCd5j5NhELQTiX9mDwDiDy_xZC2j5jV6-JTfa7j=s96-c', 
+    isAnonymous: false, 
+    providerData: [
+      {
+        uid: 'oKQLKUPLaGZdbH2WlPCUcLC5YRi2', 
+        photoUrl: 'https://lh3.googleusercontent.com/a-/AAuE7mCd5j5NhELQTiX9mDwDiDy_xZC2j5jV6-JTfa7j=s96-c', providerId: 'firebase', 
+        displayName:'Jhon Catacora', 
+        email: 'xanandra2014@gmail.com'
+      }, 
+      {
+        uid: '111305320666536243866', 
+        photoUrl: 'https://lh3.googleusercontent.com/a-/AAuE7mCd5j5NhELQTiX9mDwDiDy_xZC2j5jV6-JTfa7j=s96-c', providerId: 'google.com', 
+        displayName: 'Jhon Catacora', 
+        email: 'xanandra2014@gmail.com'
+      }
+    ], 
+    providerId: 'firebase', 
+    displayName: 'Jhon Catacora', 
+    creationTimestamp: '1570072147251', 
+    lastSignInTimestamp: '1570311518003', 
+    email: 'xanandra2014@gmail.com', 
+    isEmailVerified: true,
+  },
+)
+
+FACEBOOK 
+
+{
+  "name":"Jhon Catacora Tupa",
+  "first_name":"Jhon",
+  "last_name":"Catacora Tupa",
+  "email":"xanandra2014\u0040gmail.com",
+  "picture":
+    {
+      "data":
+        {
+          "height":50,
+          "is_silhouette":false,
+          "url":"https:\/\/platform-lookaside.fbsbx.com\/platform\/profilepic\/?asid=2422940611168040&height=50&width=50&ext=1572920244&hash=AeTLsotEWri6pjbT",
+          "width":50
+        }
+    },
+  "id":"2422940611168040"  
+}

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">eLearning</string>
+    <string name="facebook_app_id">539267870146240</string>
+    <string name="fb_login_protocol_scheme">fb539267870146240</string>
+</resources>
